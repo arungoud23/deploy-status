@@ -11,5 +11,38 @@
             "borrowed": false
     }
   ],
-  "masaiBooks":[]
+  "users": [
+    {
+      "username": "arungoud",
+      "email": "arunkumarpatil98@gmail.com",
+      "password": "masai123",
+      "avatar": "http://127.0.0.1:5500/arunagoud_fw15_320/unit-8/sprint-2/day-2/we/Mock5BlogApp/dummy-avatar.png",
+      "id": 1
+    },
+    {
+      "username": "arungoud",
+      "email": "arunkumarpatil98@gmail.com",
+      "password": "masai123",
+      "avatar": "http://127.0.0.1:5500/arunagoud_fw15_320/unit-8/sprint-2/day-2/we/Mock5BlogApp/dummy-avatar.png",
+      "id": 2
+    }
+  ],
+  "blogs": [
+    {
+      "username": "arungoud",
+      "title": "adf",
+      "content": "dfa",
+      "category": "Entertainment",
+      "date": "",
+      "id": 1
+    },
+    {
+      "username": "arungoud",
+      "title": "Food Business",
+      "content": "its wonderfull to start your carrer food business is one of the high income buisness",
+      "category": "Business",
+      "date": "2023-02-11",
+      "id": 2
+    }
+  ]
 }
