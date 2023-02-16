@@ -1,48 +1,22 @@
 {
-  "books": [
-    {
-        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-        "book_name": "Harry Potter and the Philosopher's Stone",
-        "author": "J. K. Rowling",
-            "genre": "fiction",
-            "edition": "2021",
-            "publisher": "Bloomsbury",
-            "cost": 1299,
-            "borrowed": false
-    }
-  ],
   "users": [
     {
       "username": "arungoud",
       "email": "arunkumarpatil98@gmail.com",
       "password": "masai123",
-      "avatar": "http://127.0.0.1:5500/arunagoud_fw15_320/unit-8/sprint-2/day-2/we/Mock5BlogApp/dummy-avatar.png",
       "id": 1
-    },
-    {
-      "username": "arungoud",
-      "email": "arunkumarpatil98@gmail.com",
-      "password": "masai123",
-      "avatar": "http://127.0.0.1:5500/arunagoud_fw15_320/unit-8/sprint-2/day-2/we/Mock5BlogApp/dummy-avatar.png",
-      "id": 2
     }
   ],
-  "blogs": [
+  "companies": [
     {
-      "username": "arungoud",
-      "title": "adf",
-      "content": "dfa",
-      "category": "Entertainment",
-      "date": "",
+      "company_logo": "",
+      "company_name": "masai",
+      "company_type": "IT",
+      "stock_exchange": "NSE",
+      "total_shares": "20",
+      "cost_per_share": "150",
+      "price_action": "20%",
       "id": 1
-    },
-    {
-      "username": "arungoud",
-      "title": "Food Business",
-      "content": "its wonderfull to start your carrer food business is one of the high income buisness",
-      "category": "Business",
-      "date": "2023-02-11",
-      "id": 2
     }
   ]
 }
