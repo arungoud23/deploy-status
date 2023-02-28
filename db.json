@@ -1,23 +1,52 @@
 {
-  "users": [
+  "details":[
     {
-      "username": "arungoud",
-      "email": "arunkumarpatil98@gmail.com",
-      "password": "masai123",
+      "postedAt": "2023-02-28",
+      "company": "Masai",
+      "city": "vijayapur",
+      "location": "jayanagar",
+      "role": "Backend",
+      "level": "Junior",
+      "contract": "Full time",
+      "position": "Junior Frontend developer",
+      "language": "Javascript",
       "id": 1
-    }
-  ],
-  "companies": [
+    },
     {
-      "company_logo": "",
-      "company_name": "masai",
-      "company_type": "IT",
-      "stock_exchange": "NSE",
-      "total_shares": "20",
-      "cost_per_share": "150",
-      "price_action": "20%",
-      "id": 1
+      "postedAt": "2023-02-28",
+      "company": "Masai",
+      "city": "vijayapur",
+      "location": "jayanagar",
+      "role": "Backend",
+      "level": "Junior",
+      "contract": "Full time",
+      "position": "Junior Frontend developer",
+      "language": "Javascript",
+      "id": 2
+    },
+    {
+      "postedAt": "2023-02-28",
+      "company": "Masai",
+      "city": "vijayapur",
+      "location": "jayanagar",
+      "role": "Backend",
+      "level": "Junior",
+      "contract": "Full time",
+      "position": "Junior Frontend developer",
+      "language": "Javascript",
+      "id": 3
+    },
+    {
+      "postedAt": "2023-02-28",
+      "company": "Masai",
+      "city": "vijayapur",
+      "location": "jayanagar",
+      "role": "Backend",
+      "level": "Junior",
+      "contract": "Full time",
+      "position": "Junior Frontend developer",
+      "language": "Javascript",
+      "id": 4
     }
-  ],
-  "buy":[]
+  ]
 }
