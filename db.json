@@ -1,52 +1,507 @@
 {
-  "details":[
+  "products": [
     {
-      "postedAt": "2023-02-28",
-      "company": "Masai",
-      "city": "vijayapur",
-      "location": "jayanagar",
-      "role": "Backend",
-      "level": "Junior",
-      "contract": "Full time",
-      "position": "Junior Frontend developer",
-      "language": "Javascript",
-      "id": 1
+      "id": "3",
+      "qty": 1,
+      "title": "Campus sutra",
+      "price": 555,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": "men's clothing",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/8/tr:w-275,/48be351CS21WIN_CSMAWJK060TN_1.jpg?rnd=20200526195200",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/4/8/48be351CS21WIN_CSMAWJK060TN_2.jpg?rnd=20200526195200",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
     },
     {
-      "postedAt": "2023-02-28",
-      "company": "Masai",
-      "city": "vijayapur",
-      "location": "jayanagar",
-      "role": "Backend",
-      "level": "Junior",
-      "contract": "Full time",
-      "position": "Junior Frontend developer",
-      "language": "Javascript",
-      "id": 2
+      "id": "4",
+      "qty": 1,
+      "title": "striped t-shirt",
+      "price": 559,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "men's clothing",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/f/s/fsaw16017gmlorg_1_14fe730d.jpg?rnd=20200526195200",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/f/s/fsaw16017gmlorg_4_8b165382.jpg?rnd=20200526195200",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
     },
     {
-      "postedAt": "2023-02-28",
-      "company": "Masai",
-      "city": "vijayapur",
-      "location": "jayanagar",
-      "role": "Backend",
-      "level": "Junior",
-      "contract": "Full time",
-      "position": "Junior Frontend developer",
-      "language": "Javascript",
-      "id": 3
+      "id": "5",
+      "qty": 1,
+      "title": "Meenakri raani haar set",
+      "price": 1695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/k/a/tr:w-275,/karatcart-11014331_1_e7562d63.jpg?rnd=20200526195200",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/k/a/karatcart-11014331_2_79afc3fe.jpg?rnd=20200526195200",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
     },
     {
-      "postedAt": "2023-02-28",
-      "company": "Masai",
-      "city": "vijayapur",
-      "location": "jayanagar",
-      "role": "Backend",
-      "level": "Junior",
-      "contract": "Full time",
-      "position": "Junior Frontend developer",
-      "language": "Javascript",
-      "id": 4
+      "id": "6",
+      "qty": 1,
+      "title": "silver necklace ",
+      "price": 1688,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": "jewelery",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/0/3/032bacfYCTJNS-28MLTLYR-SL_1.jpg?rnd=20200526195200",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/0/3/032bacfYCTJNS-28MLTLYR-SL_2.jpg?rnd=20200526195200",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": "7",
+      "qty": 1,
+      "title": "silver ring",
+      "price": 2516,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "jewelery",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/a/9/a9dcb47GIVAX00000430_1.jpg?rnd=20200526195200",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/a/9/a9dcb47GIVAX00000430_2.jpg?rnd=20200526195200",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    },
+    {
+      "id": "8",
+      "qty": 1,
+      "title": "Gold plated jumka earrings",
+      "price": 1699,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": "jewelery",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/6/5/651e12dNYFPRIY002582_1.jpg?rnd=20200526195200",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/6/5/651e12dNYFPRIY002582_2.jpg?rnd=20200526195200",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    },
+    {
+      "id": "9",
+      "qty": 1,
+      "title": "SL200 Portable SSD",
+      "price": 2000,
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+      "category": "electronics",
+      "image": "https://www.lexar.com/wp-content/uploads/product_images/sl200_slider_2TB_1.png",
+      "image1": "https://www.lexar.com/wp-content/uploads/product_images/sl200_slider_2TB_2.png",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      }
+    },
+    {
+      "id": "11",
+      "qty": 1,
+      "title": "Galaxy Watch4",
+      "price": 2500,
+      "description": "Measure body composition with the Powerful Samsung BioActive Sensor Track your workouts on your wristSleek, Seamless and Iconic Design",
+      "category": "electronics",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-watch4-398879-sm-r870nzgainu-481111378?$1300_1038_PNG$",
+      "image1": "https://images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-watch4-398879-sm-r870nzgainu-481111367?$684_547_PNG$",
+      "rating": {
+        "rate": 4.8,
+        "count": 319
+      }
+    },
+    {
+      "id": "12",
+      "qty": 1,
+      "title": "smart watch",
+      "price": 2114,
+      "description": "Measure body composition with the Powerful Samsung BioActive Sensor Track your workouts on your wristSleek, Seamless and Iconic Design",
+      "category": "electronics",
+      "image": "https://staticimg.titan.co.in/Fastrack/Catalog/38077AP04_1.jpg?pView=pdp",
+      "image1": "https://staticimg.titan.co.in/Fastrack/Catalog/38077AP04_2.jpg?pView=pdp",
+      "rating": {
+        "rate": 4.8,
+        "count": 400
+      }
+    },
+    {
+      "id": "13",
+      "qty": 1,
+      "title": "Multi port adapter",
+      "price": 1219,
+      "description": "Designed for this generation of gamers, Zebronics aims to deliver high-end audio wearables at affordable prices. It ensures to give a superior quality experience with high-fidelity audio and incredible features.",
+      "category": "electronics",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/e/tr:w-275,/zeb-ta500u_1_67581efd.jpg?rnd=20200526195200",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/z/e/zeb-ta500u_3_7f1b9b2a.jpg?rnd=20200526195200",
+      "rating": {
+        "rate": 2.9,
+        "count": 250
+      }
+    },
+    {
+      "id": "14",
+      "qty": 1,
+      "title": "Red light tripod",
+      "price": 9999,
+      "description": "Digitek is a one stop shop for all your mobile & camera accessories. they think, innovate, and create high quality products for a superior experience. The range of products are designed for precise results for amateurs and professionals.",
+      "category": "electronics",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-960,/pub/media/catalog/product/d/_/d_drl-12c_1_7508dcb3.jpg?rnd=20200526195200",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-960,/pub/media/catalog/product/d/_/d_drl-12c_2_b2d5d896.jpg?rnd=20200526195200",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      }
+    },
+    {
+      "id": "15",
+      "qty": 1,
+      "title": "Women brown coat",
+      "price": 2000,
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "category": "women's clothing",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/c/a/ca6bc0fVERO-MODA-104453001_1.jpg?rnd=20200526195200",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/c/a/ca6bc0fVERO-MODA-104453001_2.jpg?rnd=20200526195200",
+      "rating": {
+        "rate": 2.6,
+        "count": 235
+      }
+    },
+    {
+      "id": "16",
+      "qty": 1,
+      "title": "Knitted ragged jacket",
+      "price": 2995,
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+      "category": "women's clothing",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/2/9/29bbe9dLMU-4092_1.jpg?rnd=20200526195200",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/2/9/29bbe9dLMU-4092_4.jpg?rnd=20200526195200",
+      "rating": {
+        "rate": 2.9,
+        "count": 340
+      }
+    },
+    {
+      "id": "17",
+      "qty": 1,
+      "title": "Rain Jacket women",
+      "price": 3999,
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "category": "women's clothing",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-960,/pub/media/catalog/product/r/c/rc0005_2_a0ae7d04.jpg?rnd=20200526195200",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-960,/pub/media/catalog/product/r/c/rc0005_3_d8407a9c.jpg?rnd=20200526195200",
+      "rating": {
+        "rate": 3.8,
+        "count": 679
+      }
+    },
+    {
+      "id": "18",
+      "qty": 1,
+      "title": "womens boat neck ",
+      "price": 540,
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "category": "women's clothing",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-960,/pub/media/catalog/product/n/y/nyle048-zephyr-01_a97a6455.jpg?rnd=20200526195200",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/n/y/nyle048-zephyr-02_4bf3d1bb.jpg?rnd=20200526195200",
+      "rating": {
+        "rate": 4.7,
+        "count": 130
+      }
+    },
+    {
+      "id": "19",
+      "qty": 1,
+      "title": "Women's sleeves",
+      "price": 440,
+      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+      "category": "women's clothing",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-960,/pub/media/catalog/product/s/a/sai1-20180020_1.jpg?rnd=20200526195200",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/s/a/sai1-20180020_2.jpg?rnd=20200526195200",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      }
+    },
+    {
+      "id": "20",
+      "qty": 1,
+      "title": " Womens T Shirt",
+      "price": "335",
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "category": "women's clothing",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-960,/pub/media/catalog/product/a/d/adb05eaBEK-391711_1.jpg?rnd=20200526195200",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/a/d/adb05eaBEK-391711_10.jpg?rnd=20200526195200",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": "21",
+      "qty": 1,
+      "title": "Mens Casual T Shirt",
+      "price": "699",
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "category": "men's clothing",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-960,/pub/media/catalog/product/2/2/22980aeSTY-20-21-004898_1.jpg?rnd=20200526195200",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/2/2/22980aeSTY-20-21-004898_3.jpg?rnd=20200526195200",
+      "rating": {
+        "rate": 4.5,
+        "count": 147
+      }
+    },
+    {
+      "id": "22",
+      "qty": 1,
+      "title": "smart watch",
+      "price": "2999",
+      "description": "We make products that are engineered on the inside for life on the outside. We do this so our customers can make the most of the time they spend pursuing their passions.",
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZGlnaXRhbCUyMHdhdGNofGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/6/e/6efb04eGARMIN-010-02645-24_2.jpg?rnd=20200526195200",
+      "rating": {
+        "rate": 4.5,
+        "count": 147
+      }
+    },
+    {
+      "id": "23",
+      "qty": 1,
+      "title": "Mens Casual T Shirt",
+      "price": "1499",
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "category": "men's clothing",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-960,/pub/media/catalog/product/8/b/8bfafa1CEBOSTON_BURGUNDY_1.jpg?rnd=20200526195200",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/8/b/8bfafa1CEBOSTON_BURGUNDY_2.jpg?rnd=20200526195200",
+      "rating": {
+        "rate": 4,
+        "count": 147
+      }
+    },
+    {
+      "id": "24",
+      "qty": 1,
+      "title": "girl's cotton skirt",
+      "price": "1499",
+      "description": "Elle kids offers stylish pieces of clothing made with the comfort of the child and individualistic style specifically in mind. And it offer all kinds of clothing like denim, shirts, tees, outerwear, pullovers and more to help complete smart-looking.",
+      "category": "women's clothing",
+      "image": "https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/7/tr:w-275,/e7665f62102-EL-FC-SKT616B_1.jpg?rnd=20200526195200",
+      "rating": {
+        "rate": 4,
+        "count": 147
+      }
+    },
+    {
+      "id": "25",
+      "qty": 1,
+      "title": "Hand cloth bag",
+      "price": "1299",
+      "description": "AND clothing is trendy making it millennial favourite. AND dresses, tops, bottoms & other AND contemporary wear is perfect for work & play. AND collection features stripes, abstract prints and solid colours. AND designs are office-ready and casual.",
+      "category": "women's clothing",
+      "image": "https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-960,/pub/media/catalog/product/2/a/2a82a69SS22ARUSB11WHIT_1.jpg?rnd=20200526195200",
+      "rating": {
+        "rate": 5.5,
+        "count": 147
+      }
+    },
+    {
+      "id": "26",
+      "qty": 1,
+      "title": "Mens Cap",
+      "price": "1299",
+      "description": "Warmline came into this field in the year 1983 with its garment division. Right from its origin, we have been an innovator in jacket garment field and continue to be as one of the best-known manufacturers of novelty jackets garment in India.",
+      "category": "men's clothing",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/s/-/s-4-black_1.jpg?rnd=20200526195200",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/s/-/s-4-black_2.jpg?rnd=20200526195200",
+      "rating": {
+        "rate": 8,
+        "count": 147
+      }
+    },
+    {
+      "id": "27",
+      "qty": 1,
+      "title": "silver Bracelet",
+      "price": "4999",
+      "description": "VIRAASI the brand is set to bring a range of fusion jewelry that celebrates culture with modern-day needs. The brand aims at bringing to the Indian stage affordable, classic, and exceptionally designed jewelry products.",
+      "category": "jewelery",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-960,/pub/media/catalog/product/8/0/80c178cJW-VIR0982_1.jpg?rnd=20200526195200",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/8/0/80c178cVIR0982_2.jpg?rnd=20200526195200",
+      "rating": {
+        "rate": 5.5,
+        "count": 147
+      }
+    },
+    {
+      "id": "28",
+      "qty": 1,
+      "title": "Women's Jacket",
+      "price": "9999",
+      "description": "Style Quotient aims to make fashionable garments which are made in India. they strongly support the make in India initiative and work to empower local workers and karigars. All of the processes from design to manufacturing are based in India.",
+      "category": "women's clothing",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/s/s/tr:w-275,/ss19sqahilya_off_wt_1_96b81710.jpg?rnd=20200526195200",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/s/s/ss19sqahilya_off_wt_2_d45b686c.jpg?rnd=20200526195200",
+      "rating": {
+        "rate": 4,
+        "count": 147
+      }
+    },
+    {
+      "id": "29",
+      "qty": 1,
+      "title": "Plum Galaxy Shrug",
+      "price": "5250",
+      "description": "This striking oversized cape with the glittering embroidery in clusters gets you going anywhere and everywhere!!",
+      "category": "women's clothing",
+      "image": "https://cdn.shopify.com/s/files/1/0520/7395/5522/products/IMG0730_188x.progressive.jpg?v=1634725193",
+      "image1": "https://cdn.shopify.com/s/files/1/0520/7395/5522/products/IMG0706_188x.progressive.jpg?v=1634725193",
+      "rating": {
+        "rate": "4",
+        "count": ""
+      }
+    },
+    {
+      "id": "30",
+      "qty": 1,
+      "title": "Blue Button Down Shirt",
+      "price": " 2240",
+      "description": "This print with bold stripes describes the strength of the beautiful woman of today. Team it up with our classic white pants to make a bold statement.",
+      "category": "women's clothing",
+      "image": "https://cdn.shopify.com/s/files/1/0520/7395/5522/products/PARTB0156_360x.jpg?v=1660821669",
+      "image1": "https://cdn.shopify.com/s/files/1/0520/7395/5522/products/PARTB0167_188x.progressive.jpg?v=1660821668",
+      "rating": {
+        "rate": "4",
+        "count": ""
+      }
+    },
+    {
+      "id": "31",
+      "qty": 1,
+      "title": " Dusty Pink Shirt",
+      "price": "2240",
+      "description": "INTRODUCING THE PLEATED FABRIC SHIRTS TRENDING THIS SEASON TO GIVE YOU THE BOLD AND EDGY VIBE.",
+      "category": "women's clothing",
+      "image": "https://cdn.shopify.com/s/files/1/0520/7395/5522/products/PARTB0641_188x.progressive.jpg?v=1659600145",
+      "image1": "https://cdn.shopify.com/s/files/1/0520/7395/5522/products/PARTB0652_188x.progressive.jpg?v=1659600145",
+      "rating": {
+        "rate": "3.4",
+        "count": ""
+      }
+    },
+    {
+      "id": "32",
+      "qty": 1,
+      "title": "Red stylish jacket",
+      "price": "3196",
+      "description": "Fable Street is a fashion brand that emphasizes on apparels and accessories for every occasion. The brand's psychology revolves around comfort-first clothing in order to make every woman feel confident within herself.",
+      "category": "women's clothing",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/a/tr:w-275,/fablestreet_jk063redd_1.jpg?rnd=20200526195200",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/f/a/fablestreet_jk063redd_2.jpg?rnd=20200526195200",
+      "rating": {
+        "rate": "4",
+        "count": ""
+      }
+    },
+    {
+      "id": "33",
+      "qty": 1,
+      "title": "womens tradition",
+      "price": "6680",
+      "description": "Founded by Mamta Roy, Odette stands for embracing fluidity, breaking fashion conventions, and creating modern yet timeless pieces. The intricately embellished accessories are for the woman who believes in making the classic look contemporary.",
+      "category": "women's clothing",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/d/tr:w-275,/dda45acMHTS44412_1.jpg?rnd=20200526195200",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/d/d/dda45acMHTS44412_2.jpg?rnd=20200526195200",
+      "rating": {
+        "rate": "4",
+        "count": ""
+      }
+    },
+    {
+      "id": "34",
+      "qty": 1,
+      "title": "men traditional",
+      "price": "5000",
+      "description": "Manyavar, India's leading festive wear brand ensures to bring designer luxury clothing to your closets for all the special moments in your life. From exquisitte sherwanis to classic kurta-jacket, their state-of-the-art pieces are timeless and iconic.",
+      "category": "men's clothing",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-960,/pub/media/catalog/product/0/0/00ba305RENAMEML12014-326_1.jpg?rnd=20200526195200",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/0/0/00ba305RENAMEML12014-326_2.jpg?rnd=20200526195200",
+      "rating": {
+        "rate": "5",
+        "count": ""
+      }
+    },
+    {
+      "id": "35",
+      "qty": 1,
+      "title": "Echo dot",
+      "price": "2250",
+      "description": "Amazon.com, Inc. is an American multinational technology company that focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. Explore its tech products like remotes, Alexa, Kindle, speakers & more.",
+      "category": "electronics",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-960,/pub/media/catalog/product/n/y/nyfamzn000002_2_5b6a71c2.jpg?rnd=20200526195200",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-960,/pub/media/catalog/product/n/y/nyfamzn000002_1_11eabd3e.jpg?rnd=20200526195200",
+      "rating": {
+        "rate": "5",
+        "count": ""
+      }
+    },
+    {
+      "id": "36",
+      "qty": 1,
+      "title": "Airbass x-pods",
+      "price": "1299",
+      "description": "At Boult Audio, our dream is to unplug people from the hassles of the world by bringing them close to the joy of listening. Our range of True Wireless, Headphones, In-Ears, and In-Ears are designed meticulously and provide comfortable listening.",
+      "category": "electronics",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-960,/pub/media/catalog/product/b/a/ba-nk-xpods-black_1_a571a7be.jpg?rnd=20200526195200",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-960,/pub/media/catalog/product/b/a/ba-nk-xpods-black_2_3d17c4bd.jpg?rnd=20200526195200",
+      "rating": {
+        "rate": "5",
+        "count": ""
+      }
+    }
+  ],
+  "carts": [
+    {
+      "id": "2",
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "qty": 1,
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": "1",
+      "title": "Backpack",
+      "price": "1099",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/s/tr:w-275,/esbeda-11753_1_ae5524e5.jpg?rnd=20200526195200",
+      "qty": 1,
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": "6",
+      "title": "silver necklace ",
+      "price": 1688,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": "jewelery",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/0/3/032bacfYCTJNS-28MLTLYR-SL_1.jpg?rnd=20200526195200",
+      "qty": 1,
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
     }
   ]
 }
